@@ -43,7 +43,7 @@ vmess://BASE64_JSON
   "ps": "Northflank-V2Ray",
   "add": "your-service.northflank.app",
   "port": "443",
-  "id": "ec38f1c7-25d8-4128-8c4d-140573c6f584",
+  "id": "YOUR-UUID-HERE",
   "aid": "0",
   "net": "ws",
   "path": "/ray",
@@ -62,5 +62,6 @@ vmess://BASE64_JSON
 ```
 vmess://eyJ2IjoiMiIsInBzIjoiTm9ydGhmbGFuay1WMlJheSIsImFkZCI6InlvdXItc2VydmljZS5ub3J0aGZsYW5rLmFwcCIsInBvcnQiOiI0NDMiLCJpZCI6IjEyMzQ1Ni03ODkwLWFhYmMtZGVmZy0xMjM0NTY3ODkwYWFiYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIn0=
 ```
+
 
 این لینک را می‌توانید مستقیم در V2rayN وارد کنید.
